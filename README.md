@@ -3,6 +3,7 @@
 # 🌡️ MT6835 Optimizer
 
 ### Optimize Heat & Battery Life for MediaTek Dimensity 6100+ / 6300 / 6400
+<img width="1774" height="887" alt="ChatGPT Image May 18, 2026, 01_44_15 PM" src="https://github.com/user-attachments/assets/65b2ff9e-221a-48e2-8c49-c0bb17c7e72e" />
 
 <img src="https://img.shields.io/badge/MT6835-Optimizer-blueviolet?style=for-the-badge&logo=android"/>
 <br/>
