@@ -5,13 +5,21 @@
 ### Optimize Heat & Battery Life for MediaTek Dimensity 6100+ / 6300 / 6400
 <img width="1774" height="887" alt="ChatGPT Image May 18, 2026, 01_44_15 PM" src="https://github.com/user-attachments/assets/65b2ff9e-221a-48e2-8c49-c0bb17c7e72e" />
 
-<img src="https://img.shields.io/badge/MT6835-Optimizer-blueviolet?style=for-the-badge&logo=android"/>
-<br/>
-<img src="https://img.shields.io/badge/Chipset-Dimensity%206100%2B%20%7C%206300%20%7C%206400-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Root-Magisk%20%7C%20KernelSU%20%7C%20APatch-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Android-11%2B-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Telegram-colorosmodules-229ED9?style=for-the-badge&logo=telegram"/>
+<a href="https://github.com/Sairb1/MT6835_Optimizer/releases">
+  <img src="https://img.shields.io/badge/Chipset-Dimensity%206100%2B%20%7C%206300%20%7C%206400-brightgreen?style=for-the-badge"/>
+</a>
 
+<a href="https://github.com/Sairb1/MT6835_Optimizer/releases">
+  <img src="https://img.shields.io/badge/Root-Magisk%20%7C%20KernelSU%20%7C%20APatch-orange?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Sairb1/MT6835_Optimizer/releases">
+  <img src="https://img.shields.io/badge/Android-11%2B-red?style=for-the-badge"/>
+</a>
+
+<a href="https://t.me/colorosmodules">
+  <img src="https://img.shields.io/badge/Telegram-colorosmodules-229ED9?style=for-the-badge&logo=telegram"/>
+</a>
 <br/>
 
 ### Premium thermal & battery optimization module for MT6835 devices
