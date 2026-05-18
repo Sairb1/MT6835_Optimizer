@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://github.com/Sairb1/MT6835_Optimizer/releases">
-  <img src="https://img.shields.io/badge/Android-11%2B-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Android-13%2B-red?style=for-the-badge"/>
 </a>
 
 <a href="https://t.me/colorosmodules">
